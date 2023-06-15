@@ -1,0 +1,4 @@
+.env
+modelxdetect.h5
+firebase-key.json
+serviceAccount.json

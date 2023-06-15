@@ -1,0 +1,10 @@
+flask
+google-cloud-storage
+firebase-admin
+numpy
+Pillow
+tensorflow
+python-dotenv
+h5py
+pytz
+datetime
